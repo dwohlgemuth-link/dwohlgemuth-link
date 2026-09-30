@@ -40,7 +40,3 @@ Ich baue gerne performante Tools, die direkt im Browser laufen, lokal arbeiten u
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<!-- Statistische Spielerei für GitHub (Optional, sieht aber cool aus) -->
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=dwohlgemuth-link&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" height="150" />
