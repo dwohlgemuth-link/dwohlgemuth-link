@@ -17,8 +17,6 @@ Welcome to my GitHub profile! I specialize in building clean, highly performant,
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-*(Füge hier gerne noch weitere Technologien hinzu, wie z.B. TypeScript, Node.js etc.)*
-
 ---
 
 ## 🚀 Featured Work (PWAs & Tools)
